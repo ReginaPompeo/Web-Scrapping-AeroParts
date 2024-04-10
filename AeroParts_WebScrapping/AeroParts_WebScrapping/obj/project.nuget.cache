@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "drupFDgK0zJPUpTCNn3EYs98ttxUu1iE4xeJDBlcdI4W/evHn6jX9UOfdFUudlGN2QJ22q9Mp009Hv6izhyt2w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\logonrmlocal\\source\\repos\\AeroParts_WebScrapping\\AeroParts_WebScrapping\\AeroParts_WebScrapping.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\logonrmlocal\\.nuget\\packages\\htmlagilitypack\\1.11.60\\htmlagilitypack.1.11.60.nupkg.sha512"
+  ],
+  "logs": []
+}

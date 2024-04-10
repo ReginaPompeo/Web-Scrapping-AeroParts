@@ -1,0 +1,17 @@
+C:\Users\logonrmlocal\source\repos\AeroParts_WebScrapping\AeroParts_WebScrapping\bin\Debug\net7.0\AeroParts_WebScrapping.exe
+C:\Users\logonrmlocal\source\repos\AeroParts_WebScrapping\AeroParts_WebScrapping\bin\Debug\net7.0\AeroParts_WebScrapping.deps.json
+C:\Users\logonrmlocal\source\repos\AeroParts_WebScrapping\AeroParts_WebScrapping\bin\Debug\net7.0\AeroParts_WebScrapping.runtimeconfig.json
+C:\Users\logonrmlocal\source\repos\AeroParts_WebScrapping\AeroParts_WebScrapping\bin\Debug\net7.0\AeroParts_WebScrapping.dll
+C:\Users\logonrmlocal\source\repos\AeroParts_WebScrapping\AeroParts_WebScrapping\bin\Debug\net7.0\AeroParts_WebScrapping.pdb
+C:\Users\logonrmlocal\source\repos\AeroParts_WebScrapping\AeroParts_WebScrapping\bin\Debug\net7.0\HtmlAgilityPack.dll
+C:\Users\logonrmlocal\source\repos\AeroParts_WebScrapping\AeroParts_WebScrapping\obj\Debug\net7.0\AeroParts_WebScrapping.csproj.AssemblyReference.cache
+C:\Users\logonrmlocal\source\repos\AeroParts_WebScrapping\AeroParts_WebScrapping\obj\Debug\net7.0\AeroParts_WebScrapping.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\logonrmlocal\source\repos\AeroParts_WebScrapping\AeroParts_WebScrapping\obj\Debug\net7.0\AeroParts_WebScrapping.AssemblyInfoInputs.cache
+C:\Users\logonrmlocal\source\repos\AeroParts_WebScrapping\AeroParts_WebScrapping\obj\Debug\net7.0\AeroParts_WebScrapping.AssemblyInfo.cs
+C:\Users\logonrmlocal\source\repos\AeroParts_WebScrapping\AeroParts_WebScrapping\obj\Debug\net7.0\AeroParts_WebScrapping.csproj.CoreCompileInputs.cache
+C:\Users\logonrmlocal\source\repos\AeroParts_WebScrapping\AeroParts_WebScrapping\obj\Debug\net7.0\AeroParts_WebScrapping.csproj.CopyComplete
+C:\Users\logonrmlocal\source\repos\AeroParts_WebScrapping\AeroParts_WebScrapping\obj\Debug\net7.0\AeroParts_WebScrapping.dll
+C:\Users\logonrmlocal\source\repos\AeroParts_WebScrapping\AeroParts_WebScrapping\obj\Debug\net7.0\refint\AeroParts_WebScrapping.dll
+C:\Users\logonrmlocal\source\repos\AeroParts_WebScrapping\AeroParts_WebScrapping\obj\Debug\net7.0\AeroParts_WebScrapping.pdb
+C:\Users\logonrmlocal\source\repos\AeroParts_WebScrapping\AeroParts_WebScrapping\obj\Debug\net7.0\AeroParts_WebScrapping.genruntimeconfig.cache
+C:\Users\logonrmlocal\source\repos\AeroParts_WebScrapping\AeroParts_WebScrapping\obj\Debug\net7.0\ref\AeroParts_WebScrapping.dll
